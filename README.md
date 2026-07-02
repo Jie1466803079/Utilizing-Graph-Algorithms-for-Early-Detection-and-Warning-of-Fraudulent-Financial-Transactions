@@ -7,7 +7,7 @@
 `Python` · `NetworkX` · `StellarGraph (node2vec, GCN)` · `scikit-learn` · `XGBoost`
 
 <p align="center">
-  <img src="docs/transaction-graph.png" alt="Snowball-sampled transaction sub-networks: a fraudulent account (left) forms a dense hub versus a sparse normal account (right)" width="700">
+  <img src="docs/transaction-graph.png" alt="Snowball-sampled transaction sub-networks: a fraudulent account (left) forms a dense hub versus a sparse normal account (right)" width="440">
 </p>
 
 ## Problem
