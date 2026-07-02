@@ -6,6 +6,10 @@
 
 `Python` · `NetworkX` · `StellarGraph (node2vec, GCN)` · `scikit-learn` · `XGBoost`
 
+<p align="center">
+  <img src="docs/transaction-graph.png" alt="Snowball-sampled transaction sub-networks: a fraudulent account (left) forms a dense hub versus a sparse normal account (right)" width="700">
+</p>
+
 ## Problem
 
 Mobile money lets people make financial transactions by phone and is spreading quickly, especially in developing countries with weaker institutional infrastructure — but that convenience also increases the opportunity for fraud. Legitimate mobile-money datasets are scarce and private, so this project works with the PaySim synthetic transaction dataset (scaled down to 95 time steps, i.e. under four days of simulated activity). The goal is to detect fraudulent transactions and give early-warning recommendations to financial service providers.
